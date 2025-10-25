@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(utm_c_course
         test.c
-        lesson_2.c)
+        lesson_2.c
+        new_branch_test.c)
